@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/heapster:v1.2.0
+FROM gcr.io/google-containers/heapster:v1.3.0
